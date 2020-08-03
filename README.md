@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**IAm-ToughCookie/IAm-ToughCookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quick Facts:
+- 🎲 I'm currently working on a Dungeon Master Sceanary Tool
+- 🌱 I'm currently learning MERN-Stack
+- 📫 How to reach me: 
+  -- 💌 toughcookie.dev@gmail.com
+  
+  
+## Stats:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![IAm-ToughCookie github stats](https://github-readme-stats.vercel.app/api?username=IAm-ToughCookie)](https://github.com/IAm-ToughCookie/github-readme-stats)
