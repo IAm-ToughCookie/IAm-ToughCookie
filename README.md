@@ -3,8 +3,8 @@
 ## Quick Facts:
 - 🎲 I'm currently working on a Dungeon Master Sceanary Tool
 - 🌱 I'm currently learning MERN-Stack
-- 📫 How to reach me: 
-  -- 💌 toughcookie.dev@gmail.com
+- 📫 How to reach me:
+  - 💌 toughcookie.dev@gmail.com
   
   
 ## Stats:
